@@ -1,2 +1,2 @@
 # One Piece Website
-Click [HERE](https://nikodego.github.com/One-Piece/) to view.
+Click [HERE](https://nikodego.github.io/One-Piece/) to view.
